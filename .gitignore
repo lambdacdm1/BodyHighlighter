@@ -1,0 +1,8 @@
+build
+*ReSharper*
+.vs
+.idea
+contrib/Plugin*
+extern/*
+.vscode/*
+x64/*
